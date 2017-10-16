@@ -10,7 +10,11 @@
     <h1>index.jsp</h1>
     <h2>I am knowno~</h2>  
     <h1>Hello what is your name?</h1>
+<<<<<<< HEAD
     
     <h1>I am five</h1>
+=======
+    <h1>How old are you ?</h1>
+>>>>>>> refs/remotes/origin/master
 </body>
 </html>
